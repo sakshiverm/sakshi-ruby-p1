@@ -1,0 +1,13 @@
+p 15.even ?
+p 17.odd ?
+p 9.2.ceil
+p 9.3.floor
+p 7.5.next
+p 8.9.pred
+p 15.to_s
+p 15.gcd(5)
+p 10+20
+p 20-10
+p 20 ** 10
+p 25/5
+p 25%5
